@@ -67,19 +67,19 @@ Run the Garden-Bay-Kitchen-Display-Systems.
 
 📸 Screenshots  
 ADMIN SYSTEM  
-![ADMIN AUTHENTICATION](image.png)
-![ADMIN REGISTRATION](image-1.png)
-![ADMIN Inventory Tab](image-2.png)
-![ADMIN Product Tab](image-4.png)
-![ADMIN Sales Analytics Tab](image-3.png)
+![ADMIN AUTHENTICATION](/images/image.png)
+![ADMIN REGISTRATION](/images/image-1.png)
+![ADMIN Inventory Tab](/images/image-2.png)
+![ADMIN Product Tab](/images/image-4.png)
+![ADMIN Sales Analytics Tab](/images/image-3.png)
 
 ORDERING SYSTEM (KIOSK)
-![ORDERING SYSTEM MENU](image-5.png)
-![ORDERING SYSTEM CART](image-6.png)
+![ORDERING SYSTEM MENU](/images/image-5.png)
+![ORDERING SYSTEM CART](/images/image-6.png)
 
 KITCHEN DISPLAY SYSTEM
-![Kitchen Display System](image-7.png)
-![alt text](image-8.png)
+![Kitchen Display System](/images/image-7.png)
+![alt text](/images/image-8.png)
 
 👨‍💻 Contributors  
 Luciferous Grandeur – Full Stack Developer / System Integrator /  QA Tester  
