@@ -1,4 +1,4 @@
-🌿🍽️ Garden Bay Integrated System Monorepo  
+🍽️ Garden Bay Integrated System Monorepo  
 An all-in-one kiosk-based ordering for Garden Bay Restaurant, designed to improve customer convenience and optimize operational efficiency.
 This is the official monorepo for the Restaurant Management System project.
 
@@ -83,6 +83,6 @@ KITCHEN DISPLAY SYSTEM
 
 👨‍💻 Contributors  
 Luciferous Grandeur – Full Stack Developer / System Integrator /  QA Tester  
-Erron Madelo – Front-End developer
+Erronn Madelo – Front-End developer / Documentation
 
 
