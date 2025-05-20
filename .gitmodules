@@ -4,3 +4,9 @@
 [submodule "Garden-Bay-Ordering-System"]
 	path = Garden-Bay-Ordering-System
 	url = https://github.com/LordByron00/Garden-Bay-Ordering-System.git
+[submodule "Garden-Bay-Admin-Systems"]
+	path = Garden-Bay-Admin-Systems
+	url = https://github.com/LordByron00/Garden-Bay-Admin-Systems.git
+[submodule "Garden-Bay-Kitchen-Display-System"]
+	path = Garden-Bay-Kitchen-Display-System
+	url = https://github.com/LordByron00/Garden-Bay-Kitchen-Display-System.git
