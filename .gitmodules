@@ -1,0 +1,6 @@
+[submodule "Garden-Bay-Backend"]
+	path = Garden-Bay-Backend
+	url = https://github.com/LordByron00/Garden-Bay-Backend.git
+[submodule "Garden-Bay-Ordering-System"]
+	path = Garden-Bay-Ordering-System
+	url = https://github.com/LordByron00/Garden-Bay-Ordering-System.git
