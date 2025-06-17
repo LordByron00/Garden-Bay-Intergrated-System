@@ -82,7 +82,7 @@ KITCHEN DISPLAY SYSTEM
 ![alt text](/images/image-8.png)
 
 👨‍💻 Contributors  
-Luciferous Grandeur – Full Stack Developer / System Integrator /  QA Tester  
+Justine Bayron – Full Stack Developer / System Integrator /  QA Tester  
 Erronn Madelo – Front-End developer / Documentation
 
 
